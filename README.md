@@ -20,6 +20,7 @@ SAIA — Smart All Inclusive Assistant  Where innovation helps inclusive peo
 - ZigBee to connect with other #inclusion people.
 
 Authors: Alex Voloshin, Dmitrii Pekhov
+
 #SAIA #Inclusion #Opensource #MrPekhov
 
 March 2026
